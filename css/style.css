@@ -9,9 +9,9 @@
     
     
     /* background-size: cover;  */
-    margin: -31px; 
+    margin: -30px; 
     margin-left:-7px;
-    border: 6px solid rgba(0, 77, 64, 0.4); 
+    border: 5px solid rgba(0, 77, 76, 0.4); 
     border-radius: 50% !important;
   }
   
@@ -356,7 +356,7 @@
   }
   
   .overlay {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.407);
     height: 100%;
     left: 0;
     position: absolute;
@@ -549,7 +549,7 @@
   /* main .teal-text */
   
   .teal-text {
-    color: #008073 !important;
+    color: #006680 !important;
   }
   
   /* .teal-text {
@@ -559,7 +559,7 @@
   /* .teal */
   
   .teal {
-    background-color: #008073 !important;
+    background-color: #006680 !important;
   }
   
   /* .teal {
